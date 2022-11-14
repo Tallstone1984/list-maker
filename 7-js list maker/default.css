@@ -1,0 +1,10 @@
+* {margin:0; padding:10px; text-align:center; }  
+body {width:80%; margin:40px auto; min-width: 400px; max-width: 600px}
+header {background:red}
+#counters {background:lightgreen;font-weight: bold; font-size: 150%;display: flex; justify-content: space-around; flex-wrap: wrap}
+button {background: #ff9999; width: 100px; }
+main {background:yellow; min-height: 80px}
+footer {background:lightblue}
+button:hover {background: pink}
+li {list-style: none; font-weight: bold; font-size: 150%}
+.complete {color: red; text-decoration: line-through}
